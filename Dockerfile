@@ -1,4 +1,4 @@
-FROM k0st/alpine-dvcs-ripper:latest
+FROM elceef/dnstwist:latest
 
 USER root
 
